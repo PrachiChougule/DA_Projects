@@ -29,7 +29,7 @@ This project explores global AI job-market data using Python libraries to unders
 ## Files
 
 * `Global_AI_Job_Market_Analysis.ipynb` — Jupyter Notebook containing the analysis.
-* `ai_job.csv` — Dataset used for the project.
+* `ai_job_dataset1.csv` — Dataset used for the project.
 
 ## How to Run
 
